@@ -6,3 +6,4 @@ TODOs:
 - Add P2P encryption (Physically shared symetric keys could be used as an additional feature).
 - Show connection status.
 - Small file attachments (With integrity checks, encryption, etc..).
+- Help page.
